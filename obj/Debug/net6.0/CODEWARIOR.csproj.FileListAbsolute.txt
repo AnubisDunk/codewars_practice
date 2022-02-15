@@ -1,0 +1,15 @@
+E:\vscode_cpractise\CODEWARIOR\bin\Debug\net6.0\CODEWARIOR.exe
+E:\vscode_cpractise\CODEWARIOR\bin\Debug\net6.0\CODEWARIOR.deps.json
+E:\vscode_cpractise\CODEWARIOR\bin\Debug\net6.0\CODEWARIOR.runtimeconfig.json
+E:\vscode_cpractise\CODEWARIOR\bin\Debug\net6.0\CODEWARIOR.dll
+E:\vscode_cpractise\CODEWARIOR\bin\Debug\net6.0\ref\CODEWARIOR.dll
+E:\vscode_cpractise\CODEWARIOR\bin\Debug\net6.0\CODEWARIOR.pdb
+E:\vscode_cpractise\CODEWARIOR\obj\Debug\net6.0\CODEWARIOR.csproj.AssemblyReference.cache
+E:\vscode_cpractise\CODEWARIOR\obj\Debug\net6.0\CODEWARIOR.GeneratedMSBuildEditorConfig.editorconfig
+E:\vscode_cpractise\CODEWARIOR\obj\Debug\net6.0\CODEWARIOR.AssemblyInfoInputs.cache
+E:\vscode_cpractise\CODEWARIOR\obj\Debug\net6.0\CODEWARIOR.AssemblyInfo.cs
+E:\vscode_cpractise\CODEWARIOR\obj\Debug\net6.0\CODEWARIOR.csproj.CoreCompileInputs.cache
+E:\vscode_cpractise\CODEWARIOR\obj\Debug\net6.0\CODEWARIOR.dll
+E:\vscode_cpractise\CODEWARIOR\obj\Debug\net6.0\ref\CODEWARIOR.dll
+E:\vscode_cpractise\CODEWARIOR\obj\Debug\net6.0\CODEWARIOR.pdb
+E:\vscode_cpractise\CODEWARIOR\obj\Debug\net6.0\CODEWARIOR.genruntimeconfig.cache
