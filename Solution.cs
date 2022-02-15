@@ -7,6 +7,7 @@ static class Solution
     {
         return $"{n}".Select(c => (long)c - '0').Reverse().ToArray();
     }
+    public static 
     
 
 
