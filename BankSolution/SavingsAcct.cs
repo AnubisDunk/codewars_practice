@@ -10,17 +10,17 @@ class SavingsAcct : Account
     }
     public void ApplyInterest()
     {
-        balance = (balance * interest) + balance;
+        balance += (balance * interest);
     }
     public override void Withdraw(decimal amount)
     {
-        if (balance - amount >= 0)
+        if (amount < balance)
         {
             base.Withdraw(amount);
             freeWithdraw--;
             if (freeWithdraw < 0)
             {
-                balance -= 2.00m;
+                base.Withdraw(2.00m);
                 Console.WriteLine($"More than 3 withdrowals - extra charge");
             }
         }
