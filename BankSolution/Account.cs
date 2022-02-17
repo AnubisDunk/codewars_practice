@@ -7,8 +7,8 @@ public abstract class Account{
         this.surname = surname;
         this.balance = balance;
     }
-    public void Deposit(decimal ammount)=> balance += ammount;
-    public virtual void Withdraw(decimal ammount)=>balance -= ammount;
+    public void Deposit(decimal amount)=> balance += amount;
+    public virtual void Withdraw(decimal amount)=>balance -= amount;
     public decimal Balance => balance;
     public string AccountOwner => $"{name} {surname}";
 

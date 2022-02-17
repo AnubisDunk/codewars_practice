@@ -12,11 +12,11 @@ class SavingsAcct : Account
     {
         balance = (balance * interest) + balance;
     }
-    public override void Withdraw(decimal ammount)
+    public override void Withdraw(decimal amount)
     {
-        if (balance - ammount >= 0)
+        if (balance - amount >= 0)
         {
-            base.Withdraw(ammount);
+            base.Withdraw(amount);
             freeWithdraw--;
             if (freeWithdraw < 0)
             {
@@ -26,7 +26,7 @@ class SavingsAcct : Account
         }
         else
         {
-            Console.WriteLine($"Operation denied:Cannot charge:{ammount}");
+            Console.WriteLine($"Operation denied:Cannot charge:{amount}");
         }
     }
 
