@@ -1,4 +1,4 @@
-static class Solution
+static class Codewar
 {
 
     public static string NumToString(int num) => $"{num}";
