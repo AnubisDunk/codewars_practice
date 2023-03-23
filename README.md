@@ -1,7 +1,4 @@
 # Coding Practice
-
-Learning to see sharp.
-
-Remembering OOP
+https://www.codewars.com/users/AnubisDunk
 
 Solving things on https://www.codewars.com/
