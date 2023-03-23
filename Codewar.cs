@@ -7,6 +7,15 @@ static class Codewar
     {
         return $"{n}".Select(c => (long)c - '0').Reverse().ToArray();
     }
+    public static string Disemvowel(string str)
+        {
+            string[] vowels = {"e","u","i","o","a","E","U","I","O","A"};
+            for (int i = 0; i < vowels.Length; i++)
+            {
+                str = str.Replace(vowels[i],"");
+            }
+            return str;
+        }
     
 
 
